@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Andrzej Zygmunt or Tobar
 - ✈ I'm from Poland
-- 👀 I’m interested in web devlopment and game development
-- 🌱 I’m currently learning CSS and C#
-- 📫 How to reach me andzyg1509@gmail.com
+- 🌱 I’m currently studying applied computer science
+- 📫 How to reach me zygmuntandrzej.01@gmail.com
